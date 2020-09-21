@@ -22,7 +22,7 @@ public class Main {
 
                     BJ.playHand();
 
-                    System.out.print("Play again? (Y = Yes, N = No)\n>");
+                    System.out.print("\nPlay again? (Y = Yes, N = No)\n>");
                     String pa = in.nextLine();
 
                     switch(pa) {
